@@ -136,7 +136,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Infura.io - [https://infura.io](https://infura.io)
-2. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+2. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/ethereum-api-quickstart))
 3. GetBlock - [https://getblock.io/nodes/eth/](https://getblock.io/nodes/eth/)
 4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 5. 0x - [https://0x.org](https://0x.org)
@@ -230,7 +230,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 7. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
 8. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
-9. Alchemy - [https://docs.alchemy.com/reference/solana-api-quickstart](https://docs.alchemy.com/reference/solana-api-quickstart)
+9. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 
 **Public Endpoints:**
 
@@ -293,7 +293,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 13. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 14. SpeedyNodes - https://www.speedynodes.com/
 15. Chainbase - [https://chainbase.online](https://chainbase.online)
-16. Alchemy - [https://docs.alchemy.com/reference/polygon-api-quickstart](https://docs.alchemy.com/reference/polygon-api-quickstart)
+16. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 
 **Public Endpoints:**
 
@@ -498,7 +498,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. Blast - [https://blastapi.io/](https://blastapi.io/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 7. Chainbase - [https://chainbase.online](https://chainbase.online)
-8. Alchemy - [https://docs.alchemy.com/reference/optimism-api-quickstart](https://docs.alchemy.com/reference/optimism-api-quickstart)
+8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 
 **Public Endpoints:**
 
@@ -512,7 +512,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. GetBlock - [https://getblock.io/nodes/arbitrum/](https://getblock.io/nodes/arbitrum/)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 3. Infura - [https://infura.io](https://infura.io)
-4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+4. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/arbitrum-api-quickstart))
 5. ANKR - [https://ankr.com](https://ankr.com)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
@@ -697,7 +697,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. Blast - [https://blastapi.io/](https://blastapi.io/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
-3. Alchemy - [https://docs.alchemy.com/reference/astar-api-quickstart](https://docs.alchemy.com/reference/astar-api-quickstart)
+3. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
